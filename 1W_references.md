@@ -24,5 +24,5 @@
 - Yoo, Y., Henfridsson, O., & Lyytinen, K. (2010). The new organizing logic of digital innovation: An agenda for information systems research. _Information Systems Research, 21_(4), 724-735.
  
 ## slide 69
-- Abernathy, W.J. and Utterback, J.M. (1978). _Patterns of industrial innovation. Technology review, 80_(7): 40—47.
+- Abernathy, W.J. and Utterback, J.M. (1978). _Patterns of industrial innovation. Technology Review, 80_(7): 40—47.
 
