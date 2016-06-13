@@ -1,6 +1,7 @@
 # 第8週: 参考文献
 ## slide 20
-- キースヴァン・デル・ハイデン van der Heiden,K. 邦訳：西村 行功, グロービス 訳 (1998) 『シナリオ・プランニング「戦略的思考と意思決定」』ダイヤモンド社.
+- van der Heiden,K.(2005). _Scenarios: The Art of Strategic Conversation 2nd Edition_ Wiley Press. 
+  - 邦訳：西村 行功, グロービス 訳 (1998) 『シナリオ・プランニング「戦略的思考と意思決定」』ダイヤモンド社.
 [(Amazon.co.jp)](https://www.amazon.co.jp/dp/4478490252)
 
 ## slide 22
